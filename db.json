@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "fullName": "Mariyaa",
+      "email": "nasutionmaria0@gmail.com",
+      "password": "asdfgh",
+      "id": 1744290370838,
+      "token": "local-token-3e8ca7q2gox"
+    },
+    {
+      "fullName": "Maria Laura",
+      "email": "marianasution08@gmail.com",
+      "password": "asdfgh",
+      "id": 1744292038916,
+      "token": "local-token-upkukv5pin"
+    },
+    {
+      "fullName": "test2",
+      "email": "Premiu@gmail.com",
+      "password": "asdfghj",
+      "id": 1744341454938,
+      "token": "local-token-90dbewaecx"
+    },
+    {
+      "fullName": "marii",
+      "email": "charlospurba048@gmail.com",
+      "password": "asdfghjkl",
+      "id": 1744345759706,
+      "token": "local-token-0k755q2x0uih"
+    }
+  ],
+  "transactions": []
+}
